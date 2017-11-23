@@ -42,7 +42,6 @@ public class Arkanoid extends acm.program.GraphicsProgram{
 			//pelota2.muevete(this);
 			pause(7);
 		}
-		
 	}
 
 	public void mouseMoved(MouseEvent _evento){
